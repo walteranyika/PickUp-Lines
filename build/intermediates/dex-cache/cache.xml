@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/walter/Downloads/PickUpLines/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/walter/Downloads/PickUpLines/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf354adf122df67521100c990872046bb270e05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/walter/Downloads/PickUpLines/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b85fa2236c5e7a3fe23f605ecf272d27045e629">
+        <dex dex="/home/walter/Downloads/PickUpLines/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84a9b7c35c7bc30cce7100cf79a48268e0dee936/classes.dex" />
+    </item>
+
+</items>
